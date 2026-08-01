@@ -265,6 +265,19 @@ input[type="submit"] {
 	#about-me h6, #about-me p {
 		width: 100%;
 	}
+
+	.quote {
+        width: 80%; 
+        padding-block: 2.5em;
+    }
+
+    .quote__text {
+        font-size: 32px; 
+    }
+
+    .quote__author {
+        font-size: 20px;
+    }
 }
 
 @media all and (max-width: 1000px) {
@@ -324,6 +337,19 @@ input[type="submit"] {
 		right: 0;
 		z-index: -1;
 	}
+
+	.quote {
+        width: 85%;
+        padding-block: 2em;
+    }
+
+    .quote__text {
+        font-size: 26px;
+    }
+
+    .quote__author {
+        font-size: 18px;
+    }
 }
 
 @media all and (max-width: 650px) {
@@ -359,5 +385,20 @@ input[type="submit"] {
 	.picture {
 		width: 80%;
 	}
+
+	.quote {
+        width: 90%; 
+        padding-block: 1.5em;
+    }
+
+    .quote__text {
+        font-size: 20px; 
+        line-height: 1.4; 
+    }
+
+    .quote__author {
+        font-size: 16px;
+        margin-top: 10px;
+    }
 }
 
