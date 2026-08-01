@@ -251,6 +251,28 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+.legal-copyright {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 14px;
+    background-color: #FFF5F5; 
+}
+
+.legal-copyright p {
+    margin: 0;
+    color: #000;
+}
+
+.legal-copyright a {
+    color: #000;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.legal-copyright a:hover {
+    text-decoration: underline;
+}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;

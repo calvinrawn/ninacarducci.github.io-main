@@ -1,4 +1,6 @@
-# Portfolio de Nina Carducci - Optimisation SEO & Performance
+# Portfolio de Nina Carducci | Optimisation SEO & Performance
+
+![alt text](assets/images/webp-camera.webp)
 
 Ce projet consistait à reprendre le site existant d'une photographe professionnelle pour en optimiser les performances globales. L'objectif était de passer d'un site présentant des lenteurs et des erreurs de référencement à une plateforme fluide, rapide et parfaitement indexable par les moteurs de recherche.
 
@@ -21,3 +23,6 @@ Ce projet consistait à reprendre le site existant d'une photographe professionn
 
 ## 🌐 Aperçu
 Le site optimisé est disponible ici : https://ninacarducci-calvin.netlify.app/
+
+## 🖼️ Images du site 
+![alt text](assets/images/gallery/entreprise/webp-jason-goodman-tHO1_OuKbg0-unspla.webp)
