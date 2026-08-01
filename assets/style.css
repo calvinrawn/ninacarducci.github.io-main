@@ -424,3 +424,22 @@ input[type="submit"] {
     }
 }
 
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: var(--bs-gray-200);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--bs-gray-700);
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--bs-gray-900);
+}
+
+/* Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--bs-gray-700) var(--bs-gray-200);
+}
