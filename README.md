@@ -26,3 +26,5 @@ Le site optimisé est disponible ici : https://ninacarducci-calvin.netlify.app/
 
 ## 🖼️ Images du site 
 ![alt text](assets/images/slider/webp-edward-cisneros-3_h6-1NPDGw-unsp.webp)
+![alt text](assets/images/slider/webp-nicholas-green-nPz8akkUmDI-unspl.webp)
+![alt text](assets/images/slider/webp-ryoji-iwata-wUZjnOv7t0g-unsplash.webp)
