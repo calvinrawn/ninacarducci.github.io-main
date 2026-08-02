@@ -25,4 +25,4 @@ Ce projet consistait à reprendre le site existant d'une photographe professionn
 Le site optimisé est disponible ici : https://ninacarducci-calvin.netlify.app/
 
 ## 🖼️ Images du site 
-![alt text](assets/images/gallery/entreprise/webp-jason-goodman-tHO1_OuKbg0-unspla.webp)
+![alt text](assets/images/slider/webp-edward-cisneros-3_h6-1NPDGw-unsp.webp)
